@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Joyce da Costa",
+        "cpf": "75146788081",
+        "email": "Costa@gmail.com",
+        "whatsapp": "35000000000",
+        "address": {
+            "postalcode": "37553620",
+            "street": "Rua Madre Maltez",
+            "number": "100",
+            "details": "Ap 9",
+            "district": "Santa Dorotéia",
+            "city_state": "Pouso Alegre/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpfinv": {
+        "name": "Joyce",
+        "cpf": "75146788081AA",
+        "email": "Costa@gmail.com",
+        "whatsapp": "35000000000",
+        "address": {
+            "postalcode": "37553-620",
+            "street": "Rua Madre Maltez",
+            "number": "100",
+            "details": "Ap 9",
+            "district": "Santa Dorotéia",
+            "city_state": "Pouso Alegre/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Joyce da Costa",
+        "cpf": "75146788081",
+        "email": "costa.com.br",
+        "whatsapp": "35000000000",
+        "address": {
+            "postalcode": "37553620",
+            "street": "Rua Madre Maltez",
+            "number": "100",
+            "details": "Ap 9",
+            "district": "Santa Dorotéia",
+            "city_state": "Pouso Alegre/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
